@@ -1,0 +1,30 @@
+Tarea 2: Haz lo mismo que en la actividad anterior, pero para el modelo TCP/IP. Compara ahora
+ambos modelos y haz una relación de las capas en ambas arquitecturas.
+
+Dentro del modelo TCP/IP existen cuatro niveles o capas que hay que tener en cuenta.
+
+Nivel de enlace o acceso a la red: es la primera capa del modelo y ofrece la posibilidad de 
+				acceso físico a la red, especificando el modo en que los 
+				datos deben enrutarse independientemente del tipo de red 
+				utilizado.
+
+Nivel de red o Internet: proporciona el paquete de datos o datagramas y administra las
+			direcciones IP. Esta capa es considerada la más importante y 
+			engloba protocolos como IP, ARP, ICMP, IGMP y RARP.
+
+Nivel de transporte: permiten conocer el estado de la transmisión así como los datos de 
+			enrutamiento y utilizan los puertos para asociar un tipo de apli-
+			cación con un tipo de dato. 
+
+Nivel de aplicación: es la parte superior del protocolo TCP/IP y suministra las aplicaciones
+			de red tipo Telnet, FTP o SMTP, que se comunican con las capas 
+			anteriores.
+
+COMPARACIÓN: 
+
+La principal diferencia  que se observa a simple vista en el modelo OSI es que esta formado
+por 7 capas, en cambio, el modelo TCP/IP por 4 capas. Además se puede observar que el modelo
+OSI es mucho más completo, ya que tiene 3 capas más que el modelo TCP/IP.
+
+Se puede observar que el modelo OSI tiene más en cuenta la conexión entre los dos ordenadores
+, y el modelo TCP/IP se centra más en el estado de los datos.
