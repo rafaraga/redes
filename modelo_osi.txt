@@ -1,0 +1,36 @@
+TAREA1:HAZ UNA BÚSQUEDA DEL MODELO OSI. ENUMERA LAS CAPAS DE LAS QUE CONSTA Y SUS FUNCIONES
+PRINCIPALES. 
+
+El modelo OSI está formado por 7 capas, que son las siguientes:
+
+· Aplicación: Esta capa ofrece la posibilidad a las aplicaciones de que puedan acceder a las
+		demás capas del modelo, y define los protocolos de intercambio de datos.
+		Además, permite a los usuarios realizar acciones y ejecutar sus instrucciones.
+
+· Presentación: Esta capa es la que se encarga de ver y representar los datos para poder 
+		mostrarlos al usuario, en esta capa se analiza las representaciones que 
+		pueda tener tanto un ordenador, como otros dispositivos que puedan 
+		conectarse y así poder traducir el idioma del contenido, semántica y 
+		sintaxis de los datos transmitidos .
+
+· Sesión: Esta capa se encarga de mantener y controlar el enlace que se establece entre 
+		dos ordenadores que están transmitiendo datos, y se ocupa de reanudar las 
+		comunicaciones en caso de haber alguna interrupción.
+
+		Esta capa en la gran parte de casos se considera imprescindible.
+
+· Transporte: Esta capa es la que permite el transporte de los datos, entre las máquinas de
+		origen y destino, ya que es independiente el tipo de red que se usa, para 
+		distribuir los datos, estos se encuentran dentro del paquete que se envía.
+
+· Red: Es la encargada de la identificación del enrutamiento entre dos o más redes que 
+		están conectadas. En este nivel lo que hará es que los datos puedan llegar 
+		de una máquina a otra.
+
+· Enlace: La capa de enlace es la que se encarga del direccionamiento físico, el acceso al 
+		medio y la detección de los errores.
+
+· Físico: Esta capa es la más baja y se encarga tanto de la topología de la red, como de la
+		conexión global del equipo hacia la red. Se encarga también de los elementos
+ 		físicos y los procedimientos a nivel electrónico, lo cual hace que dé 
+		estabilidad a que el bit viaje de un punto a otro sin alteraciones.
